@@ -21,7 +21,7 @@ Education
   Electronics Engineering Technician for Robotics and Process Control
 
   Fanshawe College, London, ON
-  
+
 2001-2003
   Dogwood Diploma
 
@@ -39,7 +39,7 @@ Employment Detail
 2007-2020
   Electronics Eng. Tech.
     PowerCore Engineering, London, ON
-    
+
     Automation specialist primarily assigned to Traction Motor Test
     Station support and design of new builds.
 
@@ -74,12 +74,12 @@ Projects
 2011
   Zero Crossing Switching
     Great Lakes Copper, London, ON
-    
+
     4160V Induction Heaters were using contactor to switch on 4160V
     transformers. This would result in transient events on the factory
     power distribution. Switching the contactors timed to close at the
     zero crossing of the AC power eliminated these transient events
-    
+
 2009-2010
   AC & DC Traction Motor Test Station
     Electro-Motive Diesels, San Luis Potosi, Mexico
@@ -135,9 +135,12 @@ Computer skills
 ---------------
 
 :Programming:
-   Python,
    C/C++,
-   Codesys (IEC 61131-3)
+   Codesys (IEC 61131-3),
+   Python,
+   Rust,
+   Typescript,
+   Zig
 :Database:
    MS SQL,
    PostgreSQL,
@@ -159,5 +162,5 @@ Computer skills
    MODBUS,
    CAN Open,
    Profibus,
-   RS232
-
+   RS232,
+   DNP3

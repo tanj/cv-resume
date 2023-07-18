@@ -8,9 +8,9 @@ Vital Statistics
 :name: John Derek te Bokkel
 :profession: Electronics Engineering Technician
 :address:
-   2606-898 Carnarvon Street,
-   New Westminster, BC
-   V3M 0C3
+   2606-7108 Collier St,
+   Burnaby, BC
+   V5E 0A1
 :phone: 519-670-6749
 :email: john.tebokkel@gmail.com
 

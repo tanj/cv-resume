@@ -2,23 +2,31 @@
 Resume - John te Bokkel
 =======================
 
-[Contact Information]
----------------------
-**Name:** John Derek te Bokkel
-**Profession:** Software Developer
-**Address:**
-2606-7108 Collier St,
-Burnaby, BC
-V5E 0A1
-**Phone:** 519-670-6749
-**Email:** john.tebokkel@gmail.com
+Contact Information
+-------------------
 
-[Summary]
+:Name: John Derek te Bokkel
+:Profession: Software Developer
+:Address:
+  2606-7108 Collier St,
+  Burnaby, BC
+  V5E 0A1
+:Phone: 519-670-6749
+:Email: john.tebokkel@gmail.com
+
+Summary
+-------
+
+A highly skilled and motivated software developer with a strong background in
+Electronics Engineering. Experienced in designing, developing, and implementing
+innovative software solutions. Proficient in various programming languages,
+frameworks, and tools, with expertise in automation, testing, and control
+systems. Committed to delivering high-quality software products that meet and
+exceed customer expectations.
+
+Education
 ---------
-A highly skilled and motivated software developer with a strong background in Electronics Engineering. Experienced in designing, developing, and implementing innovative software solutions. Proficient in various programming languages, frameworks, and tools, with expertise in automation, testing, and control systems. Committed to delivering high-quality software products that meet and exceed customer expectations.
 
-[Education]
------------
 **2004-2007**
 Electronics Engineering Technician for Robotics and Process Control
 Fanshawe College, London, ON
@@ -27,11 +35,12 @@ Fanshawe College, London, ON
 Dogwood Diploma
 Sardis Secondary School, Chilliwack, BC
 
-[Professional Experience]
--------------------------
-**Software Developer**
+Professional Experience
+-----------------------
+
+**Automation Specialist**
 *PowerCore Engineering, London, ON*
-**2007-2020**
+**2007-Present**
 
 - Developed and maintained software applications for Traction Motor Test Station support and new builds.
 - Collaborated with cross-functional teams to define project objectives and provide detailed quotations.
@@ -43,8 +52,9 @@ Sardis Secondary School, Chilliwack, BC
 - Assisted in electrical power distribution equipment installations and managed VFD projects.
 - Handled Linux Server Administration tasks.
 
-[Projects]
------------
+Projects
+---------
+
 - **Alternator Test Station**
   Progress Rail Services, Winston-Salem, NC
   AC & DC Alternator Test Station
@@ -73,30 +83,33 @@ Sardis Secondary School, Chilliwack, BC
   Electro-Motive Diesels, Yongji, China
   AC Traction Motor Test Station
 
-[Technical Skills]
--------------------
-**Programming:**
+Technical Skills
+-----------------
+
+:Programming:
 C/C++, Codesys (IEC 61131-3), Python, Rust, Typescript, Zig
 
-**Database:**
+:Database:
 MS SQL, PostgreSQL, MySQL
 
-**Productivity:**
+:Productivity:
 LaTeX, Excel, Word
 
-**Operating System:**
+:Operating System:
 Windows, Linux
 
-**CAD:**
+:CAD:
 AutoCAD, AutoCAD Electrical, Autodesk Inventor, Autodesk Fusion 360
 
-**Comm. Protocols:**
+:Comm. Protocols:
 TCP/IP, MODBUS, CAN Open, Profibus, RS232, DNP3
 
-[Languages]
-------------
-- **English:** Native Language
+Languages
+----------
 
-[References]
-------------
+| **English** Native Language
+
+References
+----------
+
 Available upon request

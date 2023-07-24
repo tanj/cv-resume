@@ -87,22 +87,22 @@ Technical Skills
 -----------------
 
 :Programming:
-C/C++, Codesys (IEC 61131-3), Python, Rust, Typescript, Zig
+  C/C++, Codesys (IEC 61131-3), Python, Rust, Typescript, Zig
 
 :Database:
-MS SQL, PostgreSQL, MySQL
+  MS SQL, PostgreSQL, MySQL
 
 :Productivity:
-LaTeX, Excel, Word
+  LaTeX, Excel, Word
 
 :Operating System:
-Windows, Linux
+  Windows, Linux
 
 :CAD:
-AutoCAD, AutoCAD Electrical, Autodesk Inventor, Autodesk Fusion 360
+  AutoCAD, AutoCAD Electrical, Autodesk Inventor, Autodesk Fusion 360
 
 :Comm. Protocols:
-TCP/IP, MODBUS, CAN Open, Profibus, RS232, DNP3
+  TCP/IP, MODBUS, CAN Open, Profibus, RS232, DNP3
 
 Languages
 ----------

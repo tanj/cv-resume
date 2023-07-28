@@ -83,11 +83,25 @@ Projects
   Electro-Motive Diesels, Yongji, China
   AC Traction Motor Test Station
 
+Software Projects
+-----------------
+
+- **Electrical Maintenance Testsheets**
+  Internal Tooling
+  ``PostgreSQL``, ``Python Flask`` backend, ``Angular 12`` frontend. A reporting tool for electrical maintenance reports. PDF reports generated via LaTeX.
+- **Alternator Test Reports**
+  Progress Rail Services, Winston-Salem, NC
+  ``C# .net core`` backend with Angular 9 frontend. This system is used to view the data logged to SQL by the test stand. Reports generated to PDF using IronPDF library
+- **Traction Motor Test Reports**
+  Progress Rail Services, San Luis Potosi, Mexico
+  A classic ``C# asp.net MVC`` application to display test results and print reports.
+
+
 Technical Skills
 -----------------
 
 :Programming:
-  C/C++, Codesys (IEC 61131-3), Python, Rust, Typescript, Zig
+  C/C++, C#, Codesys (IEC 61131-3), Python, Rust, Typescript, Zig
 
 :Database:
   MS SQL, PostgreSQL, MySQL
